@@ -23,5 +23,4 @@ name, move to the left child node.
 This example demonstrates how a BST efficiently narrows down the
 search space, allowing you to find the desired contact, &quot;Alice,&quot; quickly
 by exploiting the hierarchical structure and alphabetical ordering of the
-data.[dsa ppt.pdf](https://github.com/user-attachments/files/19180489/dsa.ppt.pdf)
-[dsa.pdf](https://github.com/user-attachments/files/19180475/dsa.pdf)
+data.
